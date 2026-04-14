@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm [Betty Nderitu] 👋 
+# I'm Betty Nderitu 👋 
 ### Full-Stack Software Engineer | AI & Distributed Systems Enthusiast
 
 I am a Software Engineer based in Nairobi, Kenya, specializing in building robust ERP systems, AI-driven diagnostics, and scalable web applications. My work focuses on bridging the gap between complex data processing and intuitive user experiences.
@@ -44,12 +44,7 @@ An AgTech ecosystem focusing on livestock diagnostics and marketplace integratio
 
 ---
 
-### 📈 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=Wanjiku1&show_icons=true&theme=tokyonight)
 
-# Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanjiku1&layout=compact&theme=tokyonight)
----
 
 ### 📫 Connect with me:
 * **LinkedIn:** (https://www.linkedin.com/in/betty-nderitu-50790b1b9/)
