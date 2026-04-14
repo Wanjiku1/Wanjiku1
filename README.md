@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Betty Nderitu 👋 
+# I'm Betty Nderitu 
 ### Full-Stack Software Engineer | AI & Distributed Systems Enthusiast
 
 I am a Software Engineer based in Nairobi, Kenya, specializing in building robust ERP systems, AI-driven diagnostics, and scalable web applications. My work focuses on bridging the gap between complex data processing and intuitive user experiences.
